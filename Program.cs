@@ -8,7 +8,7 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            LargestNumber.FindLargestNum();
+            Fibonacci.FindFibonacci();
 
 
         }
