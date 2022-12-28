@@ -8,11 +8,10 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-
-            PrimeFactor.PrimeFactorization();
+            Powerof2.power();
 
 
         }
 
-    }
+}
 }
