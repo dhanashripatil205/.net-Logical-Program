@@ -9,7 +9,7 @@
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
 
-            SwapTwoNum.TwoNumSwap();
+            VowelOrConstant.CheckVowelConstant();
 
 
         }
