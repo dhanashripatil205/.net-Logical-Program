@@ -8,8 +8,8 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            
-            StopWatch.StartStopwatch();
+
+            SwapTwoNum.TwoNumSwap();
 
 
         }
