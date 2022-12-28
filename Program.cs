@@ -8,7 +8,7 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            EvenOdd.CheckEvenOdd();
+            LargestNumber.FindLargestNum();
 
 
         }
