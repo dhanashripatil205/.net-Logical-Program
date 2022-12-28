@@ -8,10 +8,10 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            Powerof2.power();
+            Harmonic.Harmonicnumber();
 
 
         }
 
-}
+    }
 }
