@@ -9,7 +9,7 @@
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
 
-            ReverseNumber.CheckReverseNumber();
+            QuotientRemainder.CalculateQuotientAndRemainder();
 
 
         }
