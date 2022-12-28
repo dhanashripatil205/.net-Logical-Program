@@ -8,7 +8,7 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            PerfectNumber.CheckPerfectNumber();
+            Coupon.CheckCoupon();
 
 
         }
