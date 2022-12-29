@@ -28,3 +28,19 @@ namespace LogicalProgram
         }
     }
 }
+
+/* using While Loop
+
+Console.WriteLine("Enter number");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            int rev = 0, remainder;
+
+            while(num1!=0)
+            {
+                remainder = num1 % 10;
+                rev = rev * 10 + remainder;
+                num1 = num1 / 10;
+
+            }
+            Console.WriteLine("Reverse number is :" +rev);
+*/
