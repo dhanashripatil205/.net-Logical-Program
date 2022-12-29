@@ -16,12 +16,12 @@ namespace LogicalProgram
             int num1 = 0;
             int num2 = 1;
 
-            Console.Write(num1 + "\n" + num2 + "\n");
+            Console.Write(num1 + " " + num2 + " ");
 
             for (int i = 0; i <= num; i++)
             {
                 int num3 = num1 + num2;
-                Console.WriteLine("Fibonacci series:" + num3);
+                Console.Write(num3+ " ");
                 num1 = num2;
                 num2 = num3;
             }
