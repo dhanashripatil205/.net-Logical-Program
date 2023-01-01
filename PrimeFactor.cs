@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LogicalProgram
 {
-    internal class PrimeFactor
+    public class PrimeFactor
     {
         public static void PrimeFactorization()
         {
