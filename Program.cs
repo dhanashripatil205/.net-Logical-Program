@@ -10,7 +10,7 @@ namespace LogicalProgram
 
             Console.WriteLine("******** WELCOME TO N UNIT Testing PROGRAMMING ");
 
-            Week.DayOfWeek();
+            MonthlyPayment.Payment();
 
 
         }
